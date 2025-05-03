@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ma3u-mcp-dust-server-badge.png)](https://mseep.ai/app/ma3u-mcp-dust-server)
+
 # MCP Dust Server
 
 This repository contains an implementation of a Model Context Protocol (MCP) server designed to interact with Dust agents. The server is separated into two main components: the MCP server (which handles Dust API interactions) and the MCP test client (which provides a web interface for testing).
